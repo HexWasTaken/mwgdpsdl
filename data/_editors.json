@@ -1,27 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "solicoli",
-        "link": "https://www.youtube.com/@solicoli"
-    },
-    {
-        "role": "owner",
-        "name": "Xanuran",
-        "link": "https://www.youtube.com/@Xanuran"
-    },
-    {
-        "role": "helper",
-        "name": "AlpineSunshine",
-        "link": "https://www.youtube.com/@codingsunset"
-    },
-    {
-        "role": "trial",
-        "name": "speciality",
-        "link": "https://www.youtube.com/@michaelstoren."
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Cope",
+        "link": "https://www.youtube.com/channel/UCT5GddbF4moYA96gto3LjcA"
     }
 ]
