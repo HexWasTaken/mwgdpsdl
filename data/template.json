@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "name": "ListLevel01",
+    "author": "Creator03",
+    "creators": ["Creator02, Creator03"],
+    "verifier": "Player04",
+    "verification": "chrome://version/",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "Player05",
+            "link": "chrome://version/",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
