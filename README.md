@@ -1,4 +1,4 @@
-# Welcome to the Creator Point 7 Demon List!
+# Welcome to the Milky Way GDPS Demon List!
 # FAQ
 
 ---
