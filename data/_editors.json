@@ -1,7 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "Cope",
-        "link": "https://www.youtube.com/channel/UCT5GddbF4moYA96gto3LjcA"
+        "name": "Hexy",
+        "link": "nolink"
+    },
+    {
+        "role": "admin",
+        "name": "Hexy",
+        "link": "nolink"
     }
 ]
