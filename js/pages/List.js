@@ -108,6 +108,9 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass and CBF is allowed)
                     </p>
                     <p>
+                        Easy-Hard Demons dont need a verification video
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site, please check the level ID before you submit a record
                     </p>
                     <p>
