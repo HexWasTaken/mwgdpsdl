@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=ZgE4WeesRgE",
     "percentToQualify": 100,
     "password": "None",
-    "records": []
+    "records": [
+        {
+            "user": "Lunikay",
+            "link": "https://youtu.be/h1YXXF87lOY?si=A3yV1c1mLaaA_AyV&t=133",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
