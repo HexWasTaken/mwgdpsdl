@@ -7,5 +7,12 @@
     "verification": "",
     "percentToQualify": 100,
     "password": "None",
-    "records": []
+    "records": [
+        {
+            "user": "ItzPickles",
+            "link": "https://youtu.be/gjmNGuoEjzo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
